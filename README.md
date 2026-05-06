@@ -75,3 +75,29 @@ npm install
 
 # Start the development server
 npm start
+
+```
+---
+## Challenges Faced
+
+* Implementing global state management using Context API
+* Managing cart logic (add/remove/update items)
+* Ensuring smooth data flow across components
+
+---
+
+## Future Improvements
+
+* Backend integration (Node.js / Express)
+* Real payment gateway integration
+* Order tracking system
+* Admin dashboard
+* Search functionality
+
+---
+
+## License
+
+This project is open-source and available under the MIT License.
+
+```
